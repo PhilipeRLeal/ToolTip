@@ -21,7 +21,7 @@ namespace meuNameSpace
         Qualquer quebra de linha e/espaçamento aqui aplicado serão preservados no corpo do modal.""")]
         [Description("Minha descrição desta propriedade")]
         [Display(Name="Nome da Propriedade")]
-        public bool MinhaPropriedadeBooleana {get; set;}
+        public int MinhaPropriedadeBooleana {get; set;}
     }
 }
 ```
